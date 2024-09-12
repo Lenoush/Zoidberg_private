@@ -1,0 +1,20 @@
+# Pout tout
+matplotlib
+numpy
+pillow
+pandas
+seaborn 
+
+# Pour le styles
+black
+ruff
+
+# Pour Tensorflow 
+tensorflow
+keras
+
+# Pour Scikit-learn
+scikit-learn
+
+#Pour Torch
+pytorch
